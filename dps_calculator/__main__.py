@@ -17,6 +17,7 @@ def main():
     
     # Set player gear stats
     # replace with ui
+    player_gear_stats.set_stat("stabAcc",15)
     
     weapon_stats = {
         "stabAcc": 0,
